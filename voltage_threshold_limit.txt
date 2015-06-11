@@ -1,0 +1,36 @@
+	if((battery_voltage > 0x8444) && ((battery_ACR >= LOW_BATTERY_ACR_H) && flag_low_battery))// Enable USB at 3.1 V
+		{
+			EN_USB ;
+			tx_msg("Enable USB and set wakeup capacity \n\r ") ;
+		}
+		if(battery_voltage < 0x80f0) // Disable USB at 3.02 V
+		{
+			DIS_USB ;
+			tx_msg("\n\r Disable USB because battery voltage is below 3V. \n\r");
+		}
+		
+		if( battery_ACR <= LOW_BATTERY_ACR_L )
+		{
+			BLINKLED ;
+			DIS_USB ; 
+			// need to verify if setting lower lim doesn't cause issue 
+			setWakeupCapacity(0,LOW_BATTERY_ACR_H) ;  //lower lim 0, higher lim 5% 
+			#ifndef PRODUCTION
+				sprintf(msg_string, "The status register value during low battery detection is : %x \n\r",overflow_status) ;
+				tx_msg(msg_string) ;
+			#endif
+			
+			flag_low_battery = 1 ;
+			tx_msg("\n\r Flag_low_battery = 1 \n\r") ;
+		}
+		
+		if((battery_ACR >= LOW_BATTERY_ACR_H) && flag_low_battery)
+		{
+			EN_USB ;
+			tx_msg("Enable USB and set wakeup capacity \n\r ") ;
+			// set lower limit to 5%, higher limit to full battery cap, the battery capacity might be more than programmed capacity
+			//setWakeupCapacity(LOW_BATTERY_ACR_L,FULL_BATTERY_ACR) ;
+			setWakeupCapacity(LOW_BATTERY_ACR_L,HIGHEST_ACR) ;
+			flag_low_battery = 0 ;	
+			tx_msg("\n\r flag_low_battery = 0 \n\r") ;
+		}

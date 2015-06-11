@@ -1,0 +1,198 @@
+
+[Mon Mar 23 14:41:21.304 2015] ÿþÿÿÿÿÿÿSOC switch interrupt 
+[Mon Mar 23 14:41:29.150 2015] the status during switch interrupt is 0 
+[Mon Mar 23 14:41:29.400 2015] 
+[Mon Mar 23 14:41:29.416 2015]  Battery Voltage at wakeup : 0x9ef0 and ACR at wake up : 0x501 
+[Mon Mar 23 14:41:29.806 2015] SOC switch press event 
+[Mon Mar 23 14:41:34.798 2015] The battery ACR 0x501 
+[Mon Mar 23 14:41:34.954 2015] the ACR high threshold is 0Xffff and low threshold if 0X3a3 
+[Mon Mar 23 14:41:35.328 2015]  High threshold voltage value at switch press & low threshold value at switch press : 0xb680 
+[Mon Mar 23 14:41:35.905 2015] 
+[Mon Mar 23 14:41:35.921 2015]  Micro controller Going to Sleep 
+[Mon Mar 23 14:42:45.998 2015] ÿüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿSOC switch interrupt 
+[Mon Mar 23 14:42:48.354 2015] the status during switch interrupt is 0 
+[Mon Mar 23 14:42:48.619 2015] 
+[Mon Mar 23 14:42:48.619 2015]  Battery Voltage at wakeup : 0x9d48 and ACR at wake up : 0x3a0 
+[Mon Mar 23 14:42:49.025 2015] SOC switch press event 
+[Mon Mar 23 14:42:49.571 2015] The battery ACR 0x3a0ÿÿAÿÿÿÿÿÿÿÿrÿsÿÿÿSOC switch interrupt 
+[Mon Mar 23 14:45:19.969 2015] the status during switch interrupt is 0 
+[Mon Mar 23 14:45:20.219 2015] SOC switch interrupt 
+[Mon Mar 23 14:45:20.359 2015] the status during switch interrupt is 0 
+[Mon Mar 23 14:45:20.609 2015] 
+[Mon Mar 23 14:45:20.624 2015]  Battery Voltage at wakeup : 0x9700 and ACR at wake up : 0x49a 
+[Mon Mar 23 14:45:21.014 2015] SOC switch press event 
+[Mon Mar 23 14:45:22.231 2015] ÿÿÿÿþÿÿÿÿÿÿÿÿÿÿÿþÿÿÿÿÿÿþÿÿÿþÿÿÿÿÿÿþÿÿÿÿÿþþÿÿþþÿÿÿÿþÿÿ
+[Mon Mar 23 14:45:47.550 2015] load status interrupt 
+[Mon Mar 23 14:45:47.706 2015] 
+[Mon Mar 23 14:45:47.722 2015]  Battery Voltage at wakeup : 0x9e3c and ACR at wake up : 0x47c 
+[Mon Mar 23 14:45:48.112 2015] 
+[Mon Mar 23 14:45:48.127 2015]  Micro controller Going to Sleep 
+[Mon Mar 23 14:47:44.784 2015] Interrupt from LTC  
+[Mon Mar 23 14:47:44.909 2015]  The ACR value during LTC interrupt is : 3a2 
+[Mon Mar 23 14:47:45.205 2015] The status register value during LTC interrupt is : 4fc 
+[Mon Mar 23 14:47:45.549 2015] 
+[Mon Mar 23 14:47:45.564 2015]  Battery Voltage at wakeup : 0x9414 and ACR at wake up : 0x3a1 
+[Mon Mar 23 14:47:45.954 2015] Tload status interrupt 
+[Mon Mar 23 14:47:46.110 2015] he status register value during low battery detection is : 4fc 
+[Mon Mar 23 14:47:46.500 2015] 
+[Mon Mar 23 14:47:46.516 2015]  Flag_low_battery = 1 
+[Mon Mar 23 14:47:46.656 2015] Interrupt from LTC  
+[Mon Mar 23 14:47:46.797 2015]  The ACR value during LTC interrupt is : 3a0 
+[Mon Mar 23 14:47:47.077 2015] The status register value during LTC interrupt is : 4fc 
+[Mon Mar 23 14:47:47.436 2015] 
+[Mon Mar 23 14:47:47.452 2015]  Alert response protocol sent 
+[Mon Mar 23 14:47:47.639 2015] 
+[Mon Mar 23 14:47:47.655 2015]  Micro controller Going to Sleep 
+[Mon Mar 23 14:50:31.751 2015] ßcharging status interrupt 
+[Mon Mar 23 14:50:31.923 2015] the power good is 0x1 
+[Mon Mar 23 14:50:32.063 2015] charging statu interrupt 
+[Mon Mar 23 14:50:32.235 2015] the power good is 0x1 
+[Mon Mar 23 14:50:32.375 2015] 
+[Mon Mar 23 14:50:32.391 2015]  Battery Voltage at wakeup : 0x9e00 and ACR at wake up : 0x3a0 
+[Mon Mar 23 14:50:32.781 2015] The status register value during low battery detection is : 4fc 
+[Mon Mar 23 14:50:33.187 2015] 
+[Mon Mar 23 14:50:33.202 2015]  Flag_low_battery = 1 
+[Mon Mar 23 14:50:33.343 2015] 
+[Mon Mar 23 14:50:33.358 2015]  Micro controller Going to Sleep 
+[Mon Mar 23 14:50:53.857 2015] Interrupt from LTC  
+[Mon Mar 23 14:50:53.981 2015]  The ACR value during LTC interrupt is : 3b8 
+[Mon Mar 23 14:50:54.278 2015] The status register value during LTC interrupt is : 8fc 
+[Mon Mar 23 14:50:54.621 2015] 
+[Mon Mar 23 14:50:54.637 2015]  Battery Voltage at wakeup : 0xa3ac and ACR at wake up : 0x3b8 
+[Mon Mar 23 14:50:55.027 2015] Enable USB and set wakeup capacity 
+[Mon Mar 23 14:50:55.261 2015]  
+[Mon Mar 23 14:50:55.276 2015]  flag_low_battery = 0 
+[Mon Mar 23 14:50:55.417 2015] Interrupt from LTC  
+[Mon Mar 23 14:50:55.557 2015]  The ACR value during LTC interrupt is : 3b9 
+[Mon Mar 23 14:50:55.838 2015] The status register value during LTC interrupt is : 8fc 
+[Mon Mar 23 14:50:56.197 2015] 
+[Mon Mar 23 14:50:56.197 2015]  Alert response protocol sent 
+[Mon Mar 23 14:50:56.399 2015] 
+[Mon Mar 23 14:50:56.415 2015]  Micro controller Going to Sleep 
+[Mon Mar 23 14:51:04.917 2015] SOC switch interrupt 
+[Mon Mar 23 14:51:05.057 2015] the status during switch interrupt is 0 
+[Mon Mar 23 14:51:05.307 2015] SOC switch interrupt 
+[Mon Mar 23 14:51:05.447 2015] the status during switch interrupt is 0 
+[Mon Mar 23 14:51:05.697 2015] 
+[Mon Mar 23 14:51:05.713 2015]  Battery Voltage at wakeup : 0xa3c0 and ACR at wake up : 0x3c4 
+[Mon Mar 23 14:51:06.103 2015] SOC switch press event 
+[Mon Mar 23 14:51:11.110 2015] The battery ACR 0x3c4 
+[Mon Mar 23 14:51:11.251 2015] the ACR high threshold is 0Xffff and low threshold if 0X3a3 
+[Mon Mar 23 14:51:11.625 2015]  High threshold voltage value at switch press & low threshold value at switch press : 0xb680 
+[Mon Mar 23 14:51:12.202 2015] 
+[Mon Mar 23 14:51:12.218 2015]  Micro controller Going to Sleep 
+[Mon Mar 23 14:51:34.651 2015] charging status interrupt 
+[Mon Mar 23 14:51:34.822 2015] the power good is 0x0 
+[Mon Mar 23 14:51:34.963 2015] charging status interrupt 
+[Mon Mar 23 14:51:35.134 2015] the power good is 0x0 
+[Mon Mar 23 14:51:35.290 2015] 
+[Mon Mar 23 14:51:35.306 2015] èacharging status interrupt 
+[Mon Mar 23 14:51:41.920 2015] the power good is 0x1 
+[Mon Mar 23 14:51:42.076 2015] charging status interrupt 
+[Mon Mar 23 14:51:42.232 2015] the power good is 0x1 
+[Mon Mar 23 14:51:42.388 2015] 
+[Mon Mar 23 14:51:42.404 2015]  Battery Voltage at wakeup : 0x9e6c and ACR at wake up : 0x3e5 
+[Mon Mar 23 14:51:42.794 2015] 
+[Mon Mar 23 14:51:42.810 2015]  Micro controller Going to Sleep 
+[Mon Mar 23 14:52:10.219 2015] charging status interrupt 
+[Mon Mar 23 14:52:10.390 2015] the power good is 0x0 
+[Mon Mar 23 14:52:10.531 2015] charging status interrupt 
+[Mon Mar 23 14:52:10.702 2015] the power good is 0x0 
+[Mon Mar 23 14:52:10.843 2015] 
+[Mon Mar 23 14:52:10.858 2015]  Battery Voltage at wakeup : 0xa3a0 and ACR at wake up : 0x402 
+[Mon Mar 23 14:52:11.248 2015] 
+[Mon Mar 23 14:52:11.264 2015]  Micro controller Going to Sleep 
+[Mon Mar 23 14:52:12.200 2015] charging status interrupt 
+[Mon Mar 23 14:52:12.372 2015] the power good is 0x1 
+[Mon Mar 23 14:52:12.512 2015] charging status interrupt 
+[Mon Mar 23 14:52:12.684 2015] the power good is 0x1 
+[Mon Mar 23 14:52:12.840 2015] 
+[Mon Mar 23 14:52:12.840 2015]  Battery Voltage at wakeup : 0x9e90 and ACR at wake up : 0x402 
+[Mon Mar 23 14:52:13.245 2015] 
+[Mon Mar 23 14:52:13.245 2015]  Micro controller Going to Sleep 
+[Mon Mar 23 14:55:23.378 2015] charging statusinterrupt he power good is 0x0 
+[Mon Mar 23 14:55:23.690 2015] charging status interrupt 
+[Mon Mar 23 14:55:23.862 2015] the power good is 0x0 
+[Mon Mar 23 14:55:24.002 2015] 
+[Mon Mar 23 14:55:24.018 2015]  Battery Voltage at wakeup : 0x9f5c and ACR at wake up : 0x507 
+[Mon Mar 23 14:55:24.408 2015] 
+[Mon Mar 23 14:55:24.423 2015]  Micro controller Going to Sleep 
+[Mon Mar 23 14:55:28.402 2015] charging status interrupt 
+[Mon Mar 23 14:55:28.573 2015] the power good is 0x1 
+[Mon Mar 23 14:55:28.714 2015] charging status interrupt 
+[Mon Mar 23 14:55:28.885 2015] the power good is 0x1 
+[Mon Mar 23 14:55:29.041 2015] 
+[Mon Mar 23 14:55:29.041 2015]  Battery Voltage at wakeup : 0x9f44 and ACR at wake up : 0x508 
+[Mon Mar 23 14:55:29.447 2015] 
+[Mon Mar 23 14:55:29.447 2015]  Micro controller Going to Sleep 
+[Mon Mar 23 14:57:08.694 2015] SOC switch interrupt 
+[Mon Mar 23 14:57:08.834 2015] the status during switch interrupt is 0 
+[Mon Mar 23 14:57:09.084 2015] SOC switch interrupt 
+[Mon Mar 23 14:57:09.224 2015] the status during switch interrupt is 0 
+[Mon Mar 23 14:57:09.474 2015] 
+[Mon Mar 23 14:57:09.490 2015]  Battery Voltage at wakeup : 0xa474 and ACR at wake up : 0x574 
+[Mon Mar 23 14:57:09.880 2015] SOC switch press event 
+[Mon Mar 23 14:57:14.887 2015] The battery ACR 0x574 
+[Mon Mar 23 14:57:15.028 2015] the ACR high threshold is 0Xffff and low threshold if 0X3a3 
+[Mon Mar 23 14:57:15.402 2015]  High threshold voltage value at switch press & low threshold value at switch press : 0xb680 
+[Mon Mar 23 14:57:15.995 2015] 
+[Mon Mar 23 14:57:15.995 2015]  Micro controller Going to Sleep 
+[Mon Mar 23 15:00:31.713 2015] charging status interrupt 
+[Mon Mar 23 15:00:31.884 2015] the power good is 0x0 
+[Mon Mar 23 15:00:32.025 2015] charging status interrupt 
+[Mon Mar 23 15:00:32.196 2015] the power good is 0x0 
+[Mon Mar 23 15:00:32.352 2015] 
+[Mon Mar 23 15:00:32.368 2015]  Battery Voltage at wakeup : 0xa4bc and ACR at wake up : 0x649 
+[Mon Mar 23 15:00:32.758 2015] 
+[Mon Mar 23 15:00:32.774 2015]  Micro controller Going to Sleep 
+[Mon Mar 23 15:00:34.926 2015] charging status interrupt 
+[Mon Mar 23 15:00:35.098 2015] the power good is 0x1 
+[Mon Mar 23 15:00:35.238 2015] charging status interrupt 
+[Mon Mar 23 15:00:35.410 2015] the power good is 0x1 
+[Mon Mar 23 15:00:35.550 2015] 
+[Mon Mar 23 15:00:35.566 2015]  Battery Voltage at wakeup : 0x9fc4 and ACR at wake up : 0x64a 
+[Mon Mar 23 15:00:35.956 2015] 
+[Mon Mar 23 15:00:35.972 2015]  Micro controller Going to Sleep 
+[Mon Mar 23 15:51:34.435 2015] SOC switch interrupt 
+[Mon Mar 23 15:51:34.575 2015] the status during switch interrupt is 0 
+[Mon Mar 23 15:51:34.825 2015] 
+[Mon Mar 23 15:51:34.840 2015]  Battery Voltage at wakeup : 0xa7b8 and ACR at wake up : 0xe98 
+[Mon Mar 23 15:51:35.230 2015] SOC switch press event 
+[Mon Mar 23 15:51:40.238 2015] The battery ACR 0xe98 
+[Mon Mar 23 15:51:40.378 2015] the ACR high threshold is 0Xffff and low threshold if 0X3a3 
+[Mon Mar 23 15:51:40.753 2015]  High threshold voltage value at switch press & low threshold value at switch press : 0xb680 
+[Mon Mar 23 15:51:41.330 2015] 
+[Mon Mar 23 15:51:41.346 2015]  Micro controller Going to Sleep 
+[Mon Mar 23 17:24:38.714 2015] charging status interrupt 
+[Mon Mar 23 17:24:38.854 2015] the power good is 0x0 
+[Mon Mar 23 17:24:38.994 2015] charging status interrupt 
+[Mon Mar 23 17:24:39.166 2015] the power gis 0x0 
+[Mon Mar 23 17:24:39.322 2015] 
+[Mon Mar 23 17:24:39.322 2015]  Battery Voltage at wakeup : 0xa564 and ACR at wake up : 0x2251 
+[Mon Mar 23 17:24:39.728 2015] 
+[Mon Mar 23 17:24:39.743 2015]  Micro controller Going to Sleep 
+[Mon Mar 23 17:27:53.697 2015] ÿÿþþþüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿSOC switch interrupt 
+[Mon Mar 23 17:28:10.576 2015] the status during switch interrupt is 0 
+[Mon Mar 23 17:28:10.842 2015] 
+[Mon Mar 23 17:28:10.842 2015]  Battery Voltage at wakeup : 0x9de4 and ACR at wake up : 0x505 
+[Mon Mar 23 17:28:11.247 2015] SOC switch press event 
+[Mon Mar 23 17:28:16.302 2015] The battery ACR 0x505 
+[Mon Mar 23 17:28:16.458 2015] the ACR high threshold is 0Xffff and low threshold if 0X3a3 
+[Mon Mar 23 17:28:16.848 2015]  High threshold voltage value at switch press & low threshold value at switch press : 0xb680 
+[Mon Mar 23 17:28:17.456 2015] 
+[Mon Mar 23 17:28:17.456 2015]  Micro controller Going to Sleep 
+[Mon Mar 23 17:35:32.559 2015] Interrupt from LTC  
+[Mon Mar 23 17:35:32.699 2015]  The ACR value during LTC interrupt is : 3a2 
+[Mon Mar 23 17:35:32.980 2015] The status register value during LTC interrupt is : 4fc 
+[Mon Mar 23 17:35:33.339 2015] 
+[Mon Mar 23 17:35:33.354 2015]  Battery Voltage at wakeup : 0x93a4 and ACR at wake up : 0x3a1 
+[Mon Mar 23 17:35:33.760 2015] The status register value during low battery detection is : 4fc 
+[Mon Mar 23 17:35:34.166 2015] 
+[Mon Mar 23 17:35:34.166 2015]  Flag_low_battery = 1 
+[Mon Mar 23 17:35:34.322 2015] Interrupt from LTC  
+[Mon Mar 23 17:35:34.446 2015]  The ACR value during LTC interrupt is : 3a1 
+[Mon Mar 23 17:35:34.743 2015] The status register value during LTC interrupt is : 4fc 
+[Mon Mar 23 17:35:35.102 2015] 
+[Mon Mar 23 17:35:35.117 2015]  Alert response protocol sent 
+[Mon Mar 23 17:35:35.304 2015] 
+[Mon Mar 23 17:35:35.320 2015]  Micro controller Going to Sleep 

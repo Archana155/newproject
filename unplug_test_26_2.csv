@@ -1,0 +1,410 @@
+
+[Thu Feb 26 10:38:37.605 2015] starting 
+[Thu Feb 26 10:38:37.672 2015] The initial status is fc 
+[Thu Feb 26 10:38:37.839 2015] The initial ACR value is 2500 
+[Thu Feb 26 10:38:38.044 2015] The initial High Threshold voltage is b280 
+[Thu Feb 26 10:38:38.320 2015] Power Good : 1 , 	 Charging : 1 
+[Thu Feb 26 10:38:38.529 2015]  
+[Thu Feb 26 10:38:38.549 2015]  Battery Voltage at wakeup : 0x9538 
+[Thu Feb 26 10:38:38.781 2015] Enable USB and set wakeup capacity 
+[Thu Feb 26 10:38:39.008 2015]  
+[Thu Feb 26 10:38:39.028 2015]  flag_low_battery = 0 
+[Thu Feb 26 10:38:39.175 2015] 
+[Thu Feb 26 10:38:39.187 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 10:38:55.218 2015] SOC switch interrupt 
+[Thu Feb 26 10:38:55.360 2015] the status during switch interrupt is 0 
+[Thu Feb 26 10:38:55.618 2015] 
+[Thu Feb 26 10:38:55.631 2015]  Battery Voltage at wakeup : 0x9544 
+[Thu Feb 26 10:38:55.863 2015] SOC switch press event 
+[Thu Feb 26 10:39:00.921 2015] The battery ACR 0x24ff 
+[Thu Feb 26 10:39:01.076 2015] the ACR high threshold is 0Xffff and low threshold if 0X3a3 
+[Thu Feb 26 10:39:01.450 2015]  High threshold voltage value at switch press : 0xb280 
+[Thu Feb 26 10:39:01.807 2015] 
+[Thu Feb 26 10:39:01.820 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 10:41:05.267 2015] SOC switch interrupt 
+[Thu Feb 26 10:41:05.409 2015] the status during switch interrupt is 0 
+[Thu Feb 26 10:41:05.669 2015] 
+[Thu Feb 26 10:41:05.680 2015]  Battery Voltage at wakeup : 0x9534 
+[Thu Feb 26 10:41:05.912 2015] SOC switch press event 
+[Thu Feb 26 10:41:10.968 2015] The battery ACR 0x24fc 
+[Thu Feb 26 10:41:11.123 2015] the ACR high threshold is 0Xffff and low threshold if 0X3a3 
+[Thu Feb 26 10:41:11.497 2015]  High threshold voltage value at switch press : 0xb280 
+[Thu Feb 26 10:41:11.856 2015] 
+[Thu Feb 26 10:41:11.867 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 10:52:37.276 2015] SOC switch interrupt 
+[Thu Feb 26 10:52:37.276 2015] the status during switch interrupt is 0 
+[Thu Feb 26 10:52:37.515 2015] 
+[Thu Feb 26 10:52:37.526 2015]  Battery Voltage at wakeup : 0x94f0 
+[Thu Feb 26 10:52:37.760 2015] SOC switch press event 
+[Thu Feb 26 10:52:42.818 2015] The battery ACR 0x24eb 
+[Thu Feb 26 10:52:42.972 2015] the ACR high threshold is 0Xffff and low threshold if 0X3a3 
+[Thu Feb 26 10:52:43.345 2015]  High threshold voltage value at switch press : 0xb280 
+[Thu Feb 26 10:52:43.703 2015] 
+[Thu Feb 26 10:52:43.715 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 10:53:50.154 2015] charging status interrupt 
+[Thu Feb 26 10:53:50.325 2015] the power good is 0x0 
+[Thu Feb 26 10:53:50.473 2015] charging status interrupt 
+[Thu Feb 26 10:53:50.644 2015] the power good is 0x0 
+[Thu Feb 26 10:53:50.795 2015] 
+[Thu Feb 26 10:53:50.805 2015]  Battery Voltage at wakeup : 0x94f4 
+[Thu Feb 26 10:53:51.044 2015] 
+[Thu Feb 26 10:53:51.050 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 10:53:52.679 2015] charging status interrupt 
+[Thu Feb 26 10:53:52.850 2015] the power good is 0x1 
+[Thu Feb 26 10:53:52.997 2015] charging status interrupt 
+[Thu Feb 26 10:53:53.170 2015] the power good is 0x1 
+[Thu Feb 26 10:53:53.318 2015] 
+[Thu Feb 26 10:53:53.330 2015]  Battery Voltage at wakeup : 0x9500 
+[Thu Feb 26 10:53:53.565 2015] 
+[Thu Feb 26 10:53:53.576 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 10:54:43.225 2015] charging status interrupt 
+[Thu Feb 26 10:54:43.397 2015] the power good is 0x0 
+[Thu Feb 26 10:54:43.544 2015] charging status interrupt 
+[Thu Feb 26 10:54:43.718 2015] the power good is 0x0 
+[Thu Feb 26 10:54:43.866 2015] 
+[Thu Feb 26 10:54:43.877 2015]  Battery Vcharging status interrupt 
+[Thu Feb 26 10:54:44.109 2015] the power good is 0x0 
+[Thu Feb 26 10:54:44.256 2015] charging status interrupt 
+[Thu Feb 26 10:54:44.428 2015] the power good is 0x0 
+[Thu Feb 26 10:54:44.575 2015] charging status interrupt 
+[Thu Feb 26 10:54:44.747 2015] the power good is 0x0 
+[Thu Feb 26 10:54:44.897 2015] od is 0x0 
+[Thu Feb 26 10:54:44.970 2015] 
+[Thu Feb 26 10:54:44.982 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 10:55:29.460 2015] SOC switch interrupt 
+[Thu Feb 26 10:55:29.601 2015] the status during switch interrupt is 0 
+[Thu Feb 26 10:55:29.861 2015] 
+[Thu Feb 26 10:55:29.872 2015]  Battery Voltage at wakeup : 0x94dc 
+[Thu Feb 26 10:55:30.105 2015] SOC switch press event 
+[Thu Feb 26 10:55:35.165 2015] The battery ACR 0x24e6 
+[Thu Feb 26 10:55:35.319 2015] the ACR high threshold is 0Xffff and low threshold if 0X3a3 
+[Thu Feb 26 10:55:35.693 2015]  High threshold voltage value at switch press : 0xb280 
+[Thu Feb 26 10:55:36.052 2015] 
+[Thu Feb 26 10:55:36.063 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 11:02:30.805 2015] SOC switch interrupt 
+[Thu Feb 26 11:02:30.946 2015] the status during switch interrupt is 0 
+[Thu Feb 26 11:02:31.208 2015] 
+[Thu Feb 26 11:02:31.218 2015]  Battery Voltage at wakeup : 0x94b4 
+[Thu Feb 26 11:02:31.451 2015] SOC switch press event 
+[Thu Feb 26 11:02:36.509 2015] The battery ACR 0x24dc 
+[Thu Feb 26 11:02:36.664 2015] the ACR high threshold is 0Xffff and low threshold if 0X3a3 
+[Thu Feb 26 11:02:37.038 2015]  High threshold voltage value at switch press : 0xb280 
+[Thu Feb 26 11:02:37.398 2015] 
+[Thu Feb 26 11:02:37.407 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 11:03:19.146 2015] charging status interrupt 
+[Thu Feb 26 11:03:19.317 2015] the power good is 0x0 
+[Thu Feb 26 11:03:19.465 2015] charging status interrupt 
+[Thu Feb 26 11:03:19.636 2015] the power good is 0x0 
+[Thu Feb 26 11:03:19.787 2015] 
+[Thu Feb 26 11:03:19.797 2015]  Battery Voltage at wakeup : 0x94b8 
+[Thu Feb 26 11:03:20.032 2015] 
+[Thu Feb 26 11:03:20.042 2015]  Micro controller Going to Sleep 
+
+[Thu Feb 26 11:28:41.856 2015] SOC switch interrupt 
+[Thu Feb 26 11:28:41.997 2015] the status during switch interrupt is 0 
+[Thu Feb 26 11:28:42.255 2015] 
+[Thu Feb 26 11:28:42.267 2015]  Battery Voltage at wakeup : 0xb184 
+[Thu Feb 26 11:28:42.499 2015] SOC switch press event 
+[Thu Feb 26 11:28:47.539 2015] The battery ACR 0x4b84 
+[Thu Feb 26 11:28:47.693 2015] the ACR high threshold is 0Xffff and low threshold if 0X3a3 
+[Thu Feb 26 11:28:48.065 2015]  High threshold voltage value at switch press : 0xb280 
+[Thu Feb 26 11:28:48.420 2015] 
+[Thu Feb 26 11:28:48.433 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 11:29:42.234 2015] SOC switch interrupt 
+[Thu Feb 26 11:29:42.375 2015] the status during switch interrupt is 0 
+[Thu Feb 26 11:29:42.631 2015] SOC switch interrupt 
+[Thu Feb 26 11:29:42.773 2015] the status during switch interrupt is 0 
+[Thu Feb 26 11:29:43.030 2015] 
+[Thu Feb 26 11:29:43.042 2015]  Battery Voltage at wakeup : 0xb178 
+[Thu Feb 26 11:29:43.275 2015] SOC switch press event 
+[Thu Feb 26 11:29:48.315 2015] The battery ACR 0x4b83 
+[Thu Feb 26 11:29:48.468 2015] the ACR high threshold is 0Xffff and low threshold if 0X3a3 
+[Thu Feb 26 11:29:48.840 2015]  High threshold voltage value at switch press : 0xb280 
+[Thu Feb 26 11:29:49.196 2015] 
+[Thu Feb 26 11:29:49.208 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 11:36:26.920 2015] SOC switch interrupt 
+[Thu Feb 26 11:36:27.061 2015] the status during switch interrupt is 0 
+[Thu Feb 26 11:36:27.321 2015] 
+[Thu Feb 26 11:36:27.331 2015]  Battery Voltage at wakeup : 0xae30 
+[Thu Feb 26 11:36:27.564 2015] SOC switch press event 
+[Thu Feb 26 11:36:32.603 2015] The battery ACR 0x4b4e 
+[Thu Feb 26 11:36:32.757 2015] the ACR high threshold is 0Xffff and low threshold if 0X3a3 
+[Thu Feb 26 11:36:33.130 2015]  High threshold voltage value at switch press : 0xb280 
+[Thu Feb 26 11:36:33.487 2015] 
+[Thu Feb 26 11:36:33.497 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 11:42:24.486 2015] SOC switch interrupt 
+[Thu Feb 26 11:42:24.627 2015] the status during switch interrupt is 0 
+[Thu Feb 26 11:42:24.886 2015] 
+[Thu Feb 26 11:42:24.897 2015]  Battery Voltage at wakeup : 0xad90 
+[Thu Feb 26 11:42:25.129 2015] SOC switch press event 
+[Thu Feb 26 11:42:30.168 2015] The battery ACR 0x4a93 
+[Thu Feb 26 11:42:30.322 2015] the ACR high threshold is 0Xffff and low threshold if 0X3a3 
+[Thu Feb 26 11:42:30.695 2015]  High threshold voltage value at switch press : 0xb280 
+[Thu Feb 26 11:42:31.051 2015] 
+[Thu Feb 26 11:42:31.062 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 12:02:23.659 2015] SOC switch interrupt 
+[Thu Feb 26 12:02:23.800 2015] the status during switch interrupt is 0 
+[Thu Feb 26 12:02:24.059 2015] 
+[Thu Feb 26 12:02:24.070 2015]  Battery Voltage at wakeup : 0xac78 
+[Thu Feb 26 12:02:24.302 2015] SOC switch press event 
+[Thu Feb 26 12:02:29.341 2015] The battery ACR 0x4829 
+[Thu Feb 26 12:02:29.495 2015] the ACR high threshold is 0Xffff and low threshold if 0X3a3 
+[Thu Feb 26 12:02:29.868 2015]  High threshold voltage value at switch press : 0xb280 
+[Thu Feb 26 12:02:30.224 2015] 
+[Thu Feb 26 12:02:30.235 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 12:02:46.080 2015] load status interrupt 
+[Thu Feb 26 12:02:46.229 2015] 
+[Thu Feb 26 12:02:46.239 2015]  Battery Voltage at wakeup : 0xa62c 
+[Thu Feb 26 12:02:46.473 2015] 
+[Thu Feb 26 12:02:46.484 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 12:21:06.526 2015] load status interrupt 
+[Thu Feb 26 12:21:06.675 2015] 
+[Thu Feb 26 12:21:06.686 2015]  Battery Voltage at wakeup : 0xa48c 
+[Thu Feb 26 12:21:06.920 2015] 
+[Thu Feb 26 12:21:06.931 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 12:21:56.672 2015] SOC switch interrupt 
+[Thu Feb 26 12:21:56.813 2015] the status during switch interrupt is 0 
+[Thu Feb 26 12:21:57.073 2015] 
+[Thu Feb 26 12:21:57.084 2015]  Battery Voltage at wakeup : 0xa3c0 
+[Thu Feb 26 12:21:57.315 2015] SOC switch press event 
+[Thu Feb 26 12:22:02.360 2015] The battery ACR 0x4088 
+[Thu Feb 26 12:22:02.514 2015] the ACR high threshold is 0Xffff and low threshold if 0X3a3 
+[Thu Feb 26 12:22:02.887 2015]  High threshold voltage value at switch press : 0xb280 
+[Thu Feb 26 12:22:03.245 2015] 
+[Thu Feb 26 12:22:03.255 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 12:22:51.971 2015] ÿÿÿÿÿSOC switch interrupt 
+[Thu Feb 26 12:24:46.421 2015] the status during switch interrupt is 0 
+[Thu Feb 26 12:24:46.681 2015] 
+[Thu Feb 26 12:24:46.691 2015]  Battery Voltage at wakeup : 0xa3f4 
+[Thu Feb 26 12:24:46.924 2015] SOC switch press event 
+[Thu Feb 26 12:24:51.967 2015] The battery ACR 0x3fcf 
+[Thu Feb 26 12:24:52.121 2015] the ACR high threshold is 0Xffff and low threshold if 0X3a3 
+[Thu Feb 26 12:24:52.494 2015]  High threshold voltage value at switch press : 0xb280 
+[Thu Feb 26 12:24:52.852 2015] 
+[Thu Feb 26 12:24:52.862 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 12:25:33.481 2015] load status interrupt 
+[Thu Feb 26 12:25:33.630 2015] 
+[Thu Feb 26 12:25:33.641 2015]  Battery Voltage at wakeup : 0xa95c 
+[Thu Feb 26 12:25:33.875 2015] 
+[Thu Feb 26 12:25:33.885 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 12:25:37.081 2015] load status interrupt 
+[Thu Feb 26 12:25:37.231 2015] 
+[Thu Feb 26 12:25:37.242 2015]  Battery Voltage at wakeup : 0xa3f0 
+[Thu Feb 26 12:25:37.474 2015] 
+[Thu Feb 26 12:25:37.486 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 12:25:42.848 2015] load status interrupt 
+[Thu Feb 26 12:25:42.998 2015] 
+[Thu Feb 26 12:25:43.008 2015]  Battery Voltage at wakeup : 0xa318 
+[Thu Feb 26 12:25:43.242 2015] 
+[Thu Feb 26 12:25:43.252 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 12:26:08.839 2015] SOC switch interrupt 
+[Thu Feb 26 12:26:08.981 2015] the status during switch interrupt is 0 
+[Thu Feb 26 12:26:09.241 2015] 
+[Thu Feb 26 12:26:09.251 2015]  Battery Voltage at wakeup : 0xa010 
+[Thu Feb 26 12:26:09.483 2015] SOC switch press event 
+[Thu Feb 26 12:26:14.527 2015] The battery ACR 0x3f5f 
+[Thu Feb 26 12:26:14.681 2015] the ACR high threshold is 0Xffff and low threshold if 0X3a3 
+[Thu Feb 26 12:26:15.054 2015]  High threshold voltage value at switch press : 0xb280 
+[Thu Feb 26 12:26:15.411 2015] 
+[Thu Feb 26 12:26:15.422 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 12:33:02.683 2015] SOC switch interrupt 
+[Thu Feb 26 12:33:02.824 2015] the status during switch interrupt is 0 
+[Thu Feb 26 12:33:03.083 2015] 
+[Thu Feb 26 12:33:03.094 2015]  Battery Voltage at wakeup : 0x9e44 
+[Thu Feb 26 12:33:03.327 2015] SOC switch press event 
+[Thu Feb 26 12:33:08.373 2015] The battery ACR 0x3c54 
+[Thu Feb 26 12:33:08.527 2015] the ACR high threshold is 0Xffff and low threshold if 0X3a3 
+[Thu Feb 26 12:33:08.900 2015]  High threshold voltage value at switch press : 0xb280 
+[Thu Feb 26 12:33:09.258 2015] 
+[Thu Feb 26 12:33:09.269 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 12:40:50.544 2015] SOC switch interrupt 
+[Thu Feb 26 12:40:50.685 2015] the status during switch interrupt is 0 
+[Thu Feb 26 12:40:50.945 2015] 
+[Thu Feb 26 12:40:50.955 2015]  Battery Voltage at wakeup : 0x9ca4 
+[Thu Feb 26 12:40:51.188 2015] SOC switch press event 
+[Thu Feb 26 12:40:56.236 2015] The battery ACR 0x38dc 
+[Thu Feb 26 12:40:56.390 2015] the ACR high threshold is 0Xffff and low threshold if 0X3a3 
+[Thu Feb 26 12:40:56.763 2015]  High threshold voltage value at switch press : 0xb280 
+[Thu Feb 26 12:40:57.121 2015] 
+[Thu Feb 26 12:40:57.132 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 12:49:38.746 2015] load status interrupt 
+[Thu Feb 26 12:49:38.895 2015] 
+[Thu Feb 26 12:49:38.906 2015]  Battery Voltage at wakeup : 0xa070 
+[Thu Feb 26 12:49:39.140 2015] 
+[Thu Feb 26 12:49:39.151 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 12:50:46.247 2015] SOC switch interrupt 
+[Thu Feb 26 12:50:46.388 2015] the status during switch interrupt is 0 
+[Thu Feb 26 12:50:46.645 2015] SOC switch interrupt 
+[Thu Feb 26 12:50:46.786 2015] the status during switch interrupt is 0 
+[Thu Feb 26 12:50:47.047 2015] 
+[Thu Feb 26 12:50:47.057 2015]  Battery Voltage at wakeup : 0xa078 
+[Thu Feb 26 12:50:47.289 2015] SOC switch press event 
+[Thu Feb 26 12:50:52.338 2015] The battery ACR 0x34a4 
+[Thu Feb 26 12:50:52.492 2015] the ACR high threshold is 0Xffff and low threshold if 0X3a3 
+[Thu Feb 26 12:50:52.865 2015]  High threshold voltage value at switch press : 0xb280 
+[Thu Feb 26 12:50:53.224 2015] 
+[Thu Feb 26 12:50:53.234 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 12:57:40.754 2015] load status interrupt 
+[Thu Feb 26 12:57:40.903 2015] 
+[Thu Feb 26 12:57:40.913 2015]  Battery Voltage at wakeup : 0x9dcc 
+[Thu Feb 26 12:57:41.147 2015] 
+[Thu Feb 26 12:57:41.158 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 12:57:58.254 2015] load status interrupt 
+[Thu Feb 26 12:57:58.404 2015] 
+[Thu Feb 26 12:57:58.414 2015]  Battery Voltage at wakeup : 0x9f4c 
+[Thu Feb 26 12:57:58.648 2015] 
+[Thu Feb 26 12:57:58.659 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 12:58:02.262 2015] load status interrupt 
+[Thu Feb 26 12:58:02.412 2015] 
+[Thu Feb 26 12:58:02.422 2015]  Battery Voltage at wakeup : 0x9c08 
+[Thu Feb 26 12:58:02.656 2015] 
+[Thu Feb 26 12:58:02.667 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 12:58:30.160 2015] SOC switch interrupt 
+[Thu Feb 26 12:58:30.301 2015] the status during switch interrupt is 0 
+[Thu Feb 26 12:58:30.561 2015] 
+[Thu Feb 26 12:58:30.572 2015]  Battery Voltage at wakeup : 0x9c10 
+[Thu Feb 26 12:58:30.804 2015] SOC switch press event 
+[Thu Feb 26 12:58:33.227 2015] load status interrupt 
+[Thu Feb 26 12:58:35.998 2015] The battery ACR 0x32de 
+[Thu Feb 26 12:58:36.152 2015] the ACR high threshold is 0Xffff and low threshold if 0X3a3 
+[Thu Feb 26 12:58:36.525 2015]  High threshold voltage value at switch press : 0xb280 
+[Thu Feb 26 12:58:36.883 2015] 
+[Thu Feb 26 12:58:36.893 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 12:59:00.970 2015] load status interrupt 
+[Thu Feb 26 12:59:01.119 2015] 
+[Thu Feb 26 12:59:01.130 2015]  Battery Voltage at wakeup : 0x9de8 
+[Thu Feb 26 12:59:01.364 2015] 
+[Thu Feb 26 12:59:01.374 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 12:59:21.436 2015] load status interrupt 
+[Thu Feb 26 12:59:21.585 2015] 
+[Thu Feb 26 12:59:21.596 2015]  Battery Voltage at wakeup : 0x9b20 
+[Thu Feb 26 12:59:21.831 2015] 
+[Thu Feb 26 12:59:21.841 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 12:59:24.073 2015] load status interrupt 
+[Thu Feb 26 12:59:24.223 2015] 
+[Thu Feb 26 12:59:24.233 2015]  Battery Voltage at wakeup : 0x9e1c 
+[Thu Feb 26 12:59:24.467 2015] 
+[Thu Feb 26 12:59:24.478 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 12:59:50.179 2015] SOC switch interrupt 
+[Thu Feb 26 12:59:50.320 2015] the status during switch interrupt is 0 
+[Thu Feb 26 12:59:50.579 2015] 
+[Thu Feb 26 12:59:50.590 2015]  Battery Voltage at wakeup : 0x9b08 
+[Thu Feb 26 12:59:50.823 2015] SOC switch press event 
+[Thu Feb 26 12:59:55.868 2015] The battery ACR 0x3267 
+[Thu Feb 26 12:59:56.022 2015] the ACR high threso is 0Xffff and low threshold if 0X3a3 
+[Thu Feb 26 12:59:56.395 2015]  High threshld »oltaÿSOC switch interrupt 
+[Thu Feb 26 13:01:51.555 2015] the status during switch interrupt is 0 
+[Thu Feb 26 13:01:51.816 2015] 
+[Thu Feb 26 13:01:51.825 2015]  Battery Voltage at wakeup : 0x9a34 
+[Thu Feb 26 13:01:52.058 2015] SOC switch press event 
+[Thu Feb 26 13:01:57.105 2015] The battery ACR 0x317c 
+[Thu Feb 26 13:01:57.260 2015] the ACR high threshold is 0Xffff and low threshold if 0X3a3 
+[Thu Feb 26 13:01:57.632 2015]  High threshold voltage value at switch press : 0xb280 
+[Thu Feb 26 13:01:57.990 2015] 
+[Thu Feb 26 13:01:58.001 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 13:10:40.244 2015] SOC switch interrupt 
+[Thu Feb 26 13:10:40.385 2015] the status during switch interrupt is 0 
+[Thu Feb 26 13:10:40.645 2015] 
+[Thu Feb 26 13:10:40.656 2015]  Battery Voltage at wakeup : 0x98a0 
+[Thu Feb 26 13:10:40.888 2015] SOC switch press event 
+[Thu Feb 26 13:10:45.939 2015] The battery ACR 0x2d60 
+[Thu Feb 26 13:10:46.093 2015] the ACR high threshold is 0Xffff and low threshold if 0X3a3 
+[Thu Feb 26 13:10:46.466 2015]  High threshold voltage value at switch press : 0xb280 
+[Thu Feb 26 13:10:46.825 2015] 
+[Thu Feb 26 13:10:46.835 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 13:15:35.804 2015] load status interrupt 
+[Thu Feb 26 13:15:35.977 2015] 
+[Thu Feb 26 13:15:35.977 2015]  Battery Voltage at wakeup : 0x9d74 
+[Thu Feb 26 13:15:36.198 2015] 
+[Thu Feb 26 13:15:36.208 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 13:20:34.149 2015] SOC switch interrupt 
+[Thu Feb 26 13:20:34.290 2015] the status during switch interrupt is 0 
+[Thu Feb 26 13:20:34.576 2015] 
+[Thu Feb 26 13:20:34.576 2015]  Battery Voltage at wakeup : 0xa390 
+[Thu Feb 26 13:20:34.793 2015] SOC switch press event 
+[Thu Feb 26 13:20:39.841 2015] The battery ACR 0x29ca 
+[Thu Feb 26 13:20:39.996 2015] the ACR high threshold is 0Xffff and low threshold if 0X3a3 
+[Thu Feb 26 13:20:40.369 2015]  High threshold voltage value at switch press : 0xb280 
+[Thu Feb 26 13:20:40.726 2015] 
+[Thu Feb 26 13:20:40.737 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 13:20:52.219 2015] load status interrupt 
+[Thu Feb 26 13:20:52.369 2015] 
+[Thu Feb 26 13:20:52.379 2015]  Battery Voltage at wakeup : 0x9ba8 
+[Thu Feb 26 13:20:52.670 2015] 
+[Thu Feb 26 13:20:52.672 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 13:21:12.704 2015] load status interrupt 
+[Thu Feb 26 13:21:12.854 2015] 
+[Thu Feb 26 13:21:12.864 2015]  Battery Voltage at wakeup : 0x9c90 
+[Thu Feb 26 13:21:13.099 2015] 
+[Thu Feb 26 13:21:13.109 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 13:21:15.708 2015] load status interrupt 
+[Thu Feb 26 13:21:15.857 2015] 
+[Thu Feb 26 13:21:15.867 2015]  Battery Voltage at wakeup : 0x999c 
+[Thu Feb 26 13:21:16.102 2015] 
+[Thu Feb 26 13:21:16.112 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 13:21:34.328 2015] load status interrupt 
+[Thu Feb 26 13:21:34.478 2015] 
+[Thu Feb 26 13:21:34.488 2015]  Bload status interrupt 
+[Thu Feb 26 13:21:34.648 2015] attery Voltage at wakeup : 0x98c8 
+[Thu Feb 26 13:21:34.870 2015] 
+[Thu Feb 26 13:21:34.881 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 13:21:39.544 2015] SOC switch interrupt 
+[Thu Feb 26 13:21:39.685 2015] the status during switch interrupt is 0 
+[Thu Feb 26 13:21:39.945 2015] 
+[Thu Feb 26 13:21:39.955 2015]  Battery Voltage at wakeup : 0x97fc 
+[Thu Feb 26 13:21:40.188 2015] SOC switch press event 
+[Thu Feb 26 13:21:45.235 2015] The battery ACR 0x296c 
+[Thu Feb 26 13:21:45.389 2015] the ACR high threshold is 0Xffff and low threshold if 0X3a3 
+[Thu Feb 26 13:21:45.762 2015]  High threshold voltage value at switch press : 0xb280 
+[Thu Feb 26 13:21:46.119 2015] 
+[Thu Feb 26 13:21:46.130 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 13:22:56.445 2015] SOC switch interrupt 
+[Thu Feb 26 13:22:56.586 2015] the status during switch interrupt is 0 
+[Thu Feb 26 13:22:56.846 2015] 
+[Thu Feb 26 13:22:56.856 2015]  Battery Voltage at wakeup : 0x9770 
+[Thu Feb 26 13:22:57.088 2015] SOC switch press event 
+[Thu Feb 26 13:23:02.139 2015] The battery ACR 0x28d1 
+[Thu Feb 26 13:23:02.293 2015] the ACR high threshold is 0Xffff and low threshold if 0X3a3 
+[Thu Feb 26 13:23:02.667 2015]  High threshold voltage value at switch press : 0xb280 
+[Thu Feb 26 13:23:03.024 2015] 
+[Thu Feb 26 13:23:03.035 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 13:30:19.123 2015] SOC switch interrupt 
+[Thu Feb 26 13:30:19.264 2015] the status during switch interrupt is 0 
+[Thu Feb 26 13:30:19.525 2015] 
+[Thu Feb 26 13:30:19.534 2015]  Battery Voltage at wakeup : 0x964c 
+[Thu Feb 26 13:30:19.767 2015] SOC switch press event 
+[Thu Feb 26 13:30:24.818 2015] The battery ACR 0x254e 
+[Thu Feb 26 13:30:24.972 2015] the ACR high threshold is 0Xffff and low threshold if 0X3a3 
+[Thu Feb 26 13:30:25.345 2015]  High threshold voltage value at switch press : 0xb280 
+[Thu Feb 26 13:30:25.702 2015] 
+[Thu Feb 26 13:30:25.713 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 13:30:59.060 2015] SOC switch interrupt 
+[Thu Feb 26 13:30:59.202 2015] the status during switch interrupt is 0 
+[Thu Feb 26 13:30:59.460 2015] 
+[Thu Feb 26 13:30:59.472 2015]  Battery Voltage at wakeup : 0x9644 
+[Thu Feb 26 13:30:59.883 2015] SOC switch press event 
+[Thu Feb 26 13:31:04.755 2015] The battery ACR 0x24fc 
+[Thu Feb 26 13:31:04.910 2015] the ACR high threshold is 0Xffff and low threshold if 0X3a3 
+[Thu Feb 26 13:31:05.284 2015]  High threshold voltage value at switch press : 0xb280 
+[Thu Feb 26 13:31:05.640 2015] 
+[Thu Feb 26 13:31:05.653 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 13:32:02.685 2015] pרÿÿ|ÿר0`נÿ¿
+[Thu Feb 26 13:32:03.130 2015] ÿü~ׂנü׀א@yÿÚü#
+[Thu Feb 26 13:32:03.130 2015] ְ‏נÿÿÿÿÿ5ü¿ֳÿ¾Êנ`נD0L?‎¿גA׳ÿְר?xפנ`ß‏עÿqקנ[ÿÿÿ
+[Thu Feb 26 13:32:05.057 2015] ר¾רy‏‏ÿ‏ÿÿ‏ÿאְ& bֲ‏ÿÿzֿüתÿאG0ÿÿüרן
+[Thu Feb 26 13:32:18.208 2015] 
+[Thu Feb 26 13:32:18.218 2015] רראÿÿÿ‏üנמאנ?‏ÿÿא‏ÿNÿטÿÿ נ?אßנü@נזר6~zע‏üטIרÿ~\
+[Thu Feb 26 13:36:14.083 2015] ִ0ארננְ׀üרררנxü‏ÿd%ÿ‎ÿ‏א`ûÿüÿÿ‏ÿ‏‏נüüנר‏‏אתp׀‏ׁזננÿא‏Nב,nְÿ‏‎סש‎üüüפרנרר‏ÿÝֱ‎סררüננרüנרÿÿ¡ÿ‎ש‏‏רüררנüÿרֱÿÿÿüüררננר‏רAÿנרררפרררנ‏ÿנבûר‏üüרüנרר‏üב‎ררüררüנננü‏‎שÿרüü‏נרננר‏ÿד‎‎ןüüüרנüר‏ÿÿסÿû‎üüררנרר‏‏שרüüטטרטנר‏ÿ‏üתüְ‏ÿÿטÿüü‏ררüטנüÿ08@¼^‎‏ן^Ipְשÿ‏‏‏ררüנ‏]G½ÿ@ק>ÿ‏ÿ‎üüü‏רü0ארüַYב@ÿPרÿ‏טüאררüרÿשסשüרü‏רüרüÿ‎‎ÿÿ‏ÿü‏üü‏ÿשש‎ר‏ר‏ְÿר‏רשיÿÿ‏נ‏üüüÿüר‎ÿ‏ררüüüנüÿ‏ÿ‎ר‏‏רü‏רנ‏üÿÿ‎‎סרÿ‏½פ‏üרüאÿÿרüנÞ‏`ר‏ÿÿüÿ‏‏רנ‏üü‏ÿ‎‎ÿ‏ÿ¾ÿקר‏‏ÿש‎üüüאטÿüü‏ב‎ר‏ררררüררÿÿÿשר‏רüנüנררÿÿÿ‎ר‏üרנרנארÿÿי‎‏üüüüאררÿס‎ÿüüשנאנüüÿ‏קא¾ÿף‏)§½½ÿד`üבÿקûÿxÙ Rָÿררÿרזÿ©ÿüÿüüרüüüרÿÿ‏ÿüר‏püבÿÞaÿb`רי@חÿֿÿנ¿!?üררנט״üְקנרז‏üקTÞא‏ְאקüüÿ‏1ת‏‏ÿאÿא>üֵ
+[Thu Feb 26 13:36:15.905 2015] רסֲב` ?עßÿ‏ÿÜירנארÿßÿÿהסשü‏üררארüü‏<ûÚ‎‎‏‏üנרטננרÿרÿבü‏‏üררנטרנ‏‏רב‎ÿ‏üüררננר‏‏ü‏נס‎שÿüüנרננר‏ÿנ	ÿש‎üררüנרר‏ÿÿנÿשÿüÿרüüרננרÿÿÿÿÿפÿ‏üררננר‏ÿÿÿרüüüüüנרü‏ÿץ‎‎ר‏üüננרננ‏ÿפÿ‎üüüנננרתÿüüררנרפ‏ÿרב‎ÿ‏ÿרררררר‏רסקא‎ÿüüנננרüÿÿûב‎üÿüר‏נüר‏ÿÿרשסÿüüüüררנררÿÿÿÿשÝü‏‏‏ררררר‏ר‎ÿÿÿרÿ‏נפאררüÿרÿ‎ÿÿ‏‏üרננרÿ‏ÿÿÿÿüüארנררÿÿ‎‎‎ÿÿר‏‏נרר‏ÿ׀פÿָüאÿûר‏נרראר‏ÿÿÿְֲרüֿ¸אר‎‏ÿר‏ÿרÿ pרÿ‎‎ÿÿ‏‏üְüרטH ננü`ÿשÿÿÿ‎רü‏üנüנ‏ü‏ÿÿ‎ÿ‎‎ÿüüüנ‏ü‏ÿÿÿÿÿץÿÿר‏‏‏״üüÿשרנרÿÿ|?ארנÿÿÿשÿüר¿üנüü‏ÿüש‎‏‏‏‏‏רüüÿÿÿ«‎‎üüüנרüü‏‏‏ÿשÿÿüת¸א‏‏ÿ‏ÿÿ‎‎ÿü‏רüü‏ü‏‏‏‎ûש‎üüנרüנ‏ÿÿ‏ש‎‏ÿ‏רר¸‏ְüÿס‎‏ÿüüרנüÿ‏ÿÿף‎רÿüüרנרü‏‏ÿ‏ûÿÿשר‏üüננüüÿ‎‎‏üüרüרפü‏ÿÿÿשÿ‏רü‏ררüüÿששר‏‏פüüרר‏ÿÿÿר‏üüרüüרר‏שÿררü‏נרר׀ר‏‎‎נ‏‏üרנüנü‏שÿר‏‏רררü‏‏ÿב‎üÿüüüנננüÿסשרÿüüררנאü‏ÿֽש‎ררüרüנרר‏ÿ‎‎‎רÿ‏üüרנü‏ÿ‏‎‏ÿ‏ררררר‏ס‎‎ÿüרüרüר‏ÿÿÿÿ‎‎‏üרüנ‏ר‏ÿץÿÿרüüüרראררÿ‏ÿ‎‎ü‏üüרנüרÿÿ‏ץÿשü‏üנראנü‏ֹ‎רÿ‏רüרררü‏~ÿ‏ÿ‎שנר‏רüאררÿ‎שÿ‎üרüררנארüÿÿששר‏üüרננü‏ס‎üüÿüנרננרÿÿנÿ‎‎רÿüüרננרüÿב‎‎רÿü‏רנננüר‎ש‎שü‏üüüרנר‏ÿששü‏üררüרנ‏ÿנרÿÿÿÿרשüרüררנאר‎ÿÿץסüרüררררנ‏ÿû}פ¨נ‎üהר°נרüÿüÿ‎ֹ‏‎‏üרננר‏ÿֱ‎‎üÿ‏רüנרנ‏ÿ‏¡ÿנx‏‏נרנרר‏ÿÿûסÿüüארארנ‏ÿÿ‏‎סארüÿ°פüüר‏בÿü נרüנתנü‏‏סÿ‎ÿÿü‏ררנü‏רס‎ûÿרÿÿüüטר‏ÿÿ‎ûררÿרןÿ`üנü‏‏ÿ‎ץüü‏טא‏פתר‏ÿÿûÿ‎‎רר‏טüנüü‏ÿÿשÿüüתנüרÿÿüü‏ס‎ר‏ü‏ü‏ְרü‏ÿÿץ‎ü‏üü‏ÿתüü‏סÿרüü‏~׀‏üרüÿבÿשרüÿü‏‎ü‏üÿש‎û‏‏רר‏ÿ‏‏‏‏ÿש‎üתüüרנ<נÿÿÿüÿ‎?>ב‎ׁתüüרü נüüÿüשûתüüנררÊ‏‏‏‏ÿTְְ?‏ֹz‏ןנ‏ְנא‏ר‏t
+[Thu Feb 26 13:36:17.840 2015] 
+[Thu Feb 26 13:36:17.840 2015] ?9ְאÿÿנְׂ=ץ|רלÿ־ÿאא=ÿüרְÿרא}üְ¸÷ÿ‏רֿרüÿ<‏ררק‎רÿבüַÿüְףא	ÿַ׀קפÿ‎שזÜÿÿÿÿxüֱ?ppררÿס‎‎üüררüארנÿÿÿü‎‏ÿüרררננüÿÿü‏‏רררננרÿÿÿûÿÿ‏‏üררררנ‏ÿשÿü‎üררררננüÿנׁÿ‎ÿüüררטלרÿÿ‏ÿ‎רררררננפü‏)ר
+[Thu Feb 26 13:36:18.273 2015] 
+[Thu Feb 26 13:36:18.380 2015] רסÿ‎ִהננÿ‏ר
+[Thu Feb 26 13:36:18.396 2015] ְ
+[Thu Feb 26 13:36:18.400 2015] ְÿÿה‏@צû¿‏üררü‏ü
+[Thu Feb 26 13:36:18.494 2015] ‏א‏üאְא<8ראßא‏ÿüש¢@D@@`wדfÿאְÿÿÿ ÿÛרü<‏ץא‏‎Þx*ÿÿ‎‎רְDנר‏ת‏80ְֻ@
+[Thu Feb 26 13:36:19.243 2015] hְ
+[Thu Feb 26 13:36:19.248 2015] Eנשש‎üüüפ׀‏0`לר}ךUÊÿÿüָfÿ@üררÿ ¶ ״mF‏ש03ÿֵאÿüüרטאü‏‏‏ÿ
+[Thu Feb 26 13:36:19.820 2015] xװׁÿ‏ְ‏א
+[Thu Feb 26 13:36:19.896 2015] ‏ÿרע8נשûר‏רר‏ÿÿנ‏ÿüנüטüרü‏ÿüס‎ü‎‏üרüרננ‏ְÿx‏X‎‏¼>ַp~?נü¾ÿררüא	טÿ8‏ßÿנׁÿררר‏üנüû‏רÿüüרü‏רפ‏ÿשש‎ü‏üüüנת‏ר‏ÿÿבששתüüררנüü‏ÿב‏ס‏‏‏ררהנרÿÿ‎ÿפÿ‏üüüנרטüÿÿ‎נü‏üררהננ‏‏ÿש‎‏ÿüüפאנאנ‏ÿששüüüüררנר‏‏‏‎ׁ‎üÿ‏üנרראר‏ÿûÿר‏ÿתררüננ‏ÿÿ‏‏ס‎ÿ‏üרüנרנר‏ÿÿÿש‏üüüרüננ‏‏שÿ‎ÿ‏üרנטנר‏ÿ‎ÿ‏ר‎ררüנרר‏‎ÿ‎‏üררררר‏‏‏ÿÿ‎סÿü‏רנרנררüÿשטרר‏ררררüרü‏בננÿ‏ררפנüר‏ÿÿאששÿÿüüררררüÿשÿ‎‎‏‏רנרנüüÿÿ‎א‎רüüü¸רנרנÿÿרAÿאÿÿרüנררר‏ס‎נüüüרננר‏ÿ‎שiתüÿררננר‏‏ÿÿ‎‏üüüרüררüÿÿÿ‏ü‏‏üרנפ‏ÿ‏ÿÿÿ‏üüüנננüÿÿרÿû‎ÿסאü‏נננüü‏רÿקÿÿüנüננר‏ÿ‎ÿüÿ‏נüרפפü‏ÿ‎ר‏‏üרנרטü‏ÿüÿא‎ÿרנרתננ‏‏·ÿשÿÿüרÿר‏נר‏‏‏ÿÿüüüüÿ‏רררüÿס‎נרר‏üט‏נüüÿÿûשר‏üÿר‏‏רü‏שÿרüÿרננüא‏‏ÿÿששאÿÿ‏רÿ‏‏üÿü‎רÿü‏‏‏ÿפüüÿÿ‎ÿÿÿü‏לר‏‏‏üÿ‎ש‏‏‏ררü‏ר‏ÿÿÿ‎ÿü‏üü‏ü‏ÿש‎üÿ‏ררארüüÿ‎‎üüÿüרüנü‏ÿÿ‎‎ÿ‏‏‏ררנמü‏ÿשÿשüÿ‏üרüרüÿב‎‏üüנרארü‏‏ÿי‎שüרüנüרררÿÿÿüÿüü‏üררü‏שש‏‏ü‏‏ננüר‏בÿ‎üü‏ר׀ררüÿÿÿ‎‏ÿ‏ר‏‏רר‏ÿüש‎שüüüרü¸üנÿ‏שÿüÿ‏ררüüר‏ÿÿש‎ü‏‏ררü‏üרÿÿ‎‎רÿüרראüüüÿüססברü‏רüננüÿÿÿש‎üÿüüüרנר‏ÿרד‎‎üÿüרררüנ‏ÿש‎תÿüרüתרר‏ÿÿ‎‎üüüררנרü‏סר‏‏üרררנüüÿץÿשüüרררüננ‏ÿÿÿ‎ר‏üנרנרר‏üÿû‎נר‏üרüרנü‏ש‎‏üüרüרנרüÿÿÿÿ‎ûר‏üררüר‏‏ÿÿְ‎שÿüüüüנררÿ‏סÿאר‏üרררנü‏‏ÿששרüüüרררנרÿÿס‎סüüüרננרüüû‎ש‏‏üררנרü‏ÿסשüר‏üüררנüÿÿ‎üüüüרררארüÿרÿ‎נ‎‏üראנרüüÿפh‏üÿüנררר‏ÿüÿ‎נü‏‏üüנרר‏ÿÿÿ¡נ}ü‏רארנררÿü‎‎ÿ‏‏ר‏‎ננüüÿדש‎‏ÿüנ״נננüÿסÿירüüü‏רנü‏ÿÿרש‎ÿ‏ÿÿÿüט‏‏‏ב‎רüÿü‏üÿרר‏ÿס‎ü‏üרÿ‏üרר‏‏שüר‏üÿנ}פ‏‏‏ÿש‎‏ÿ‏‏üü‏ר‏üüס‎שüü‏נ‏ְ‏פ‎ÿֹ‎נ‏ü‏üר‏נר‏‏ÿסבׁüüררנאÿü‏ÿÿב‎נצü‏üרא‏‏‏ÿ‏ÿ‎ש‎ÿÿנ‏üנÿ‏‏ב‎‏ÿüרררü‎ר‏סÿüüרüרüרָÿÿ‏ü‎שû‎ÿררüרר‏‏ÿÿדÿרüüüנרר‏‏‏ÿÿבשנüüרנüרü‏‏‎רüüררררü‎‏‏ֱÿÿüü‏Úרררü‏ÿüשüר‏üררראüנ‏ÿנÿÿרüנüלנü‏‏ש‎ÿ‏üרנ‏רנü‏בש‏üüüנא‏רר‏סשÿü‏üרטüפüÿ‏ס‎‎üרררüנüת‏‏üאÿתüüüüüנררÿÿבÿרÿüתררנרüÿÿAûנÿüüנüüנרüסÿÿüüרנארנר‏‏ÿÿ‎ÿש‏ררנרננר‏רÿשÿüüüüרנפר‏בÿÿ‏üüרננüü‏ÿסששתרüננפררÿתÿ‎ûüüü‏ננאנü‎‎ש‎üררüנרü‏ÿüÿשרüרררנננü‏ÿÿסÿüררüüנר‏ÿנ‎ססקפרüררנררüÿÿשנüüüרנררüü‏ÿס‎שÿ‏‏נרפננ‏ÿרÿûר‎üÿ‏ררפרר‏‏ֱÿטרררנרüנרÿ‏Kר‎ÿרüררנררÿÿ‎ÿ‏ÿ‏נüננרüÿ‎²ü‏‏ררררü‏ÿשÿר‏ררנרנררÿsÿ‏üüררüנüüÿְÿÿÿüררררנüÿÿÿüü‏נננרר‏ÿÿ‎±‏ü‏ררנרנ‏ÿבÿü‏‎רüפרנ‏ÿ‎‎ÿüרנראüנ‏ÿ‏שÿ‏ÿü‏üררנü‏ÿסÿüÿÿ‏üüüנרüÿ‎ÿÿÿüüüננü‏ÿ‏ÿשל‏תÿהרנ‏ü‏ÿרÿ‎ü‎ÿÿרüר‏üÿÿקÿט‏ןת‏רנרüÿÿüסÿüÿ‏רÿרנ‏ר‏סשש‏ü‏ננאנר‏שÿר‏ÿ‏‏ְט‏‏‏ב‎ÿü‏‏נÿרÿüÿץ‎ÿüרüפ‏ÿ‏ü‏‏‎ÿüü‏üרüה‏ÿס‎תüü‏ר‏רü‏‏üÿ‎ץרü‏üאארÿÿÿשÿÿ‏üüü‏ü‏‏ֱÿÿ‏‏רüט‏‏‏ÿס‎‎ü‏רננüüÿÿס‎üü‏רüüüר‏ÿ‏ÿשüÿüרתüנררüÿב‎‏‏‏שüüרü‏ÿֱ‎ÿ‏‏נרüנ‏‏ÿסÿÿüüרנüרüרÿסÿש‎üüננרר‏ÿÿü‎‏ÿתנרררü‏ÿֱÿ‏üüררüרü‏ְ‎ÿ‏üüüררנ‏בÿ‏‏üררררü‏ÿüֱ‎ש‏רüרüüÿאÿ‏‏ַ ÿסÿ‏‏üררüüנüÿÿxGשÿר0j~
+[Thu Feb 26 13:36:23.568 2015] ‏‏ָßÿ‏רנןת‏üאÞßo׳ÿjףׂ<hÿ‎Þz׀‎üÿ‏hÿÿßÿ‏x‏üÿרü‏רנüü‏‏ÿÿשששרü‏רטü‏ÿÿÿ`ר‏‏¡ÿסü‏üüüרנטüשÿש‏‏üרü¸פנ‏ÿ|@ףÿְךÿְ‎ש‎רüüנרררüר‏ÿבשש‎üüרüפüר‏ÿֱÿ‏ÿüפררנר‏‏רשüüüüנטארüÿ‏ס‎שרüüררארר‏ÿüבÿר‎üüרראררüüבÿÿüüüנרנננüÿÿרüüüנר‏נüü‏ֱ‎‎üÿררüננר‏ÿסüü‏üנרנרררÿסשü‏ÿüüנ״נר‏ûאü‏üר‏ננü‏‏üיÿרüüüüרנüטü‏בסüüü‏üרררת‏ÿשüüü‏רררנרüÿ‏ÿ‏ÿÿש‏üררüנüנ‏ÿר‎ÿ‏רüüרנר‏ÿמÿץ‎‏ü‏ררררררÿ‏ÿ‎טüü‏üררüנ‏?נüרüררנרררÿÿ‎‏ÿ‏üראררננÿÿ‏שץ‏‏‏üüררר‏ÿÿ‎ÿ‏‏ÿÿüרüתר‏ÿֵךÿÿצ‏üנüרÿÿ‏ֱû‎‏ÿ‏‏‏‏‏נü‏ÿֱÿסץלüüט‏נררÿÿש‎ר‏‏‏א‏üאר‏ÿ‎ֱÿרüן‏רüנ‏ÿ‎אüנר‏‏עüרü‏ÿס‎ÿüÿÿנ‏תררüÿב‎üÿ‏üüÿ‏üר‏ÿבסרÿÿרÿÿü‏נÿס‎רüÿ‏‏‏‏‏üÿüש‎ÿüÿüÿüנררÿבÿ‏ÿüרÝ‏ü‏ü‏ÿששר‏‏üü‏רüüÿÿÿ‎ÿÿרננ‏üüÿÿ‎רÿüר‏‏‏‏ü‏üס‎‏ÿררüנüּ‏סÿÿüüüüü‏üüÿÿס‎ש‎‏üררְÿü‏ÿÿששÿ‏üרüנü‏üÿÿÿÿ‎‎üü‏ררנרüÿסÿ‏‏‏Ü‏רפררÿרששÿ‏ü‏רננר‏ÿש‎ר‎üררüüüר‏כÿשÿ‎üüרüüüüֱ‏üÿüüרÜרüר‏ÿב‎üÿרררראנ‏‏ְÿ‎üüüרראנüב‎ש‏üüררארüÿ‏ÿשü‎üüרננ÷ÿֱרüüüüרר‏ר‏‏ÿ‎‎‏‏üנררנü‏ÿÿÿüÿüüפרüננÿÿÿ‎üר‏üרררנ‏ֱÿü‏‏רטüüרüÿÿü‏üüרננüüÿרÿÿנ‎‏üüרנüנ‏‏ֱ‎רü‏üנרנרר‏ßרסüüüנרנüרüבÿüüüרררנü‏ÿûרü‏ררüרתü‏ÿר‎‎‏‏‏üüרררüÿ‏ÿ‎‏‏ררררנרÿשüרü‏üנרנננÿני‏üÿ‏ררüנרר‏ÿÿÿר‏üüרררנר‏üשר‎ÿÿררנררר‏ÿבÿ‎ÿü‏נüרנü‏ÿ‎‎ÿüüüררüאר‏‎‎ÿÿüנרנרü‏ÿÿן‎סרüררנררנ‏ÿֱצ‎ÿüüרüררר‏ÿÿרÿÿרתüüטרר‏ÿסÿ‎ÿ‎ÿאüנüüüÿסÿü‏רנרüנרר‏ישüüü‏ר‏üררüדÿר‏‏‎üנ‏טרÿÿרÿ‎üüץÿרטטנפüÿסÿרüÿרÞאüüנ‏ÿ‏ÿס‎‏ü‏אררüנüÿרשי‏ÿÿרü׀רפüÿס‎נÿÿ‏ררÿאנ‏ÿשÿ‎üüÿר‏üארü‏סרüÿפנ°‏|ררÿüÿ‎רÿÿררר‏üפÿ‏ׁשר‏‏üנר‏ü‎ÿÿÿÿÿüü‏נְ‏ü‏‏שץ‎‏üרר‏נ‏ü‏ס‎‎ÿüüר‏üüר‏ÿÿב‏רÿ‏üררטÿü‏ÿבüרüüררנרü‏‏ÿÿרםü‏üנü״ט@‏ÿÿÿנ‎ÿüררü‏üÿÿÿ‏ü‏‏‏רטאüü‏ÿÿסÿüÿüüננט‏‏‏¡ÿÿÿüרראררüÿדÿü‏üרü‏רנü‏‏שש‏üüüררü‏ר‏ÿü‏רüüר@רר‏ÿü¡רשüÿ‏נרנ״üü‏üÿÿüררנאüü‏‏ÿנÿ‏רררנüר‏צüÿüררארְנÿÿ‎ÿ‏‏üננננא‏ÿ‏ÿֱÿשÿüרüרנרא‏ÿתְ‎ü‏üנרררנ‏‏ÿֱ‏רüüרנרננü‏ÿÿְ‎üÿüüארנרר‏ûÿרÿüüנרנאנ‏ÿ‎ר‎‏ררüאאר‏ÿר‎רÿÿüנüאננüÿרû‎ÿ‏üרüררנפüÿריÿüÿüנüננרüÿÿץתש‎‏üרננננ‏ÿֹ‎ÿÿüüררננר‏ÿץÿרü‏רראנüר‏נ‎‏ÿ‏רüüנüü‏נ;נרüüüררנרü‏‏ÿ	ש‎ü‎רüüנפררÿÿבÿס‎‏üאטננט‏‏‎ב‎ÿ‏ü‏נרררÿ‎‎נÿ‎ÿרנרררüÿÿÿטÿüüרנראט‏ÿ‏ֹץÿÿüÿרררנüÿÿ‎ססüü‏פüüרררÿ‏ÿרûüר‏רננרנ‏ÿüששÿÿüנ‏נרüנ‏ÿÿ‎‎ÿ‎ÿרüüנרפ‏ÿרבüüÿרüü׀רננÿü¡אÿÿÿÿüטררר‏ÿü‎‎üÿÿרüüנרנÿÿשÿ‎üüÿאאנרר‏ÿÿÿ‎ÿÿüÿא‏נרר‏ÿÿסרüר‏‏üüרנüÿש‎‏ÿנ‏üאתüüÿÿÿÿÿüüÿÿÿü‏רנüÿ‏ש‎נÿÿÿאüנüר‏ÿ‏ÿÿשר‏‏ÿנ‏נננ‏ÿÿש‎נרü‏‏ÿüרü‏ÿüשש‎‏‏ÿü‏רער‏ÿüש‎רÿüüÿ‏üרüÿÿש‎‏רÿר‏‏ü‏ü‏ס‎üÿ‎‏נ‏ü‏‏ÿÿשüÿ‏‏üü‏‏ר‏‎üסשננü‏üüü‏רüÿüסÿ‎üÿüרנר‏רÿÿרסÿ‎ÿÿÿננארüüÿÿרÿÿüüפנרü‏ÿÿÿûר‏üüנüפרר‏ֱרüÿ‏ÿüרüרüÿ‏ÿÿרüüü‏üרנü‏ÿ‎סרü‏üü‏נרנ‏שר‎ÿüüרררנ‏ÿ‏üÿüüנטרüü‏‏ב‎ס‎ת‏נרנרר‏ÿת״‏ÿ‎ü‏רנטרüר‎ÿתרÿüüרü‏ü‏‏ÿ‎üüüüררüüÿÿüב‏ü‏üüüרררüÿüÿבÿנÿ‏‏רנüררÿ‎ÿÿü‏üררררר‏ÿ‏ֱüüüüררüרר‏‏ÿÿÿ‎ר‏‏üרüנררüÿÿü‎‏üנüüרü‏ÿשֳ‎ü‏üנרנרü‏ÿÿÿשÿ‏üררüנü‏ÿÿרנ‎נü‏ררüנüר‏±פ‏‏‏רררררüÿ‎ÿüרü‏‏ררננר‏ÿרÿשüü‏üרננר‏ÿנֱÿüüנüרררנ‏‏רץרüü‏רüרננתÿ‏ÿÿÿü‏üרü‏ר‏ÿ‎ֱÿ‏üüננרü‏ÿÿקרÿ‏רüüרנ‏ÿÿÿÿ‎ÿפ‏‏‏üüüנ‏ÿֱÿפÿÿ‏רüררü‏ÿÿש‎üרÿנררüר‏ÿֱשרüü‏üנ‎פר‏‏ÿשÿüüררר תנ‏ÿש‎üÿÿÿüתüלüÿשü‏ÿÿ‎üרר‏ÿÿ‎ר‏‏‏Hüרררÿÿ‎נÿüüר‏ר״‏ÿ‏ץשÿ‏üרüüר‏üÿÿÿר‏ר‏‏‏ü‏‏‎‎רÿüü‏‏רְüÿÿÿ‎ÿ‏üüÿרÿ‎ÿ‏ÿישת‎üררü‏ü‏ÿ‏סשüüüüüÞÿ‏ÿ‏ÿÿ‎‏üררטנר‏‏שש‏üüר‏üüü‏‏ß‎ÿ‏üüנüררü‏ÿ‏‎‎ÿרררנר¸‏צ‏ßשש‏ÿü‏רנü‏‏ÿüA‎‎üררüנרü‏‏‎ב‎ש‏ü‏‏נרר‏ÿ¡ÿ‎‏ü‏נüüנü‏‏ב‎‎ÿüüרֲרנÿ‏ֱ‎üüררנüüרר‏‏בסר‏‏üררü׀ü‏‏סר‏üüרנררüü‏בש‎‏üüנרָנ‏‏ÿÿס‎ÿüüרנררר‏ÿ¡ÿü‏üררראנרÿֱ‎‎ÿüתררררר‏ÿׁ‎שÿüüüררררüÿÿבשü‎üרררננüÿÿ‎ר‏üררנננüÿב‎נÿüüרüרא‏üü׀שüÿüרטררנü‏üס‎א‏‏üנררנü‏ש‎üüüüרנרנü‏סש¡‏üרנüארנ‏‏£ÿץÿÿרפננננüÿבÿÿüüüרררארÿÿ‏ֱ‎ÿ‏üüררררüÿÿשÿÿüפררנרÿüÿÿÿררüüרüüÿ¡‎ÿü‏נרפררü‏ׁדÿÿüרüררררÿ‎‎‏ÿ‏תרנררüÿרÿשÿ‏ÿררüררר‏ÿרüÿנרררנü‏3ÿ‎üÿüנüרנר‏שÿÿ‎‏üüüנננ‏ש	ÿשןü‏אררנר‏ÿקû‎ÿÿרüüננרüÿüסÿüüüרüפנר‏ÿ‎ÿ‎‎ü‏רü״רü‏ÿֱüÿÿר‏נüüנ‏‏בשֱרÿ‏רפָנרÿÿÿר‎‏ר‏נüנר‏‎ÿ׀‎üצüÿאüרÿÿ‏ס‎ÿÿüנü‏‏üü‏‎ÿררÿüר‏‏üפ‏‎üü‏‏׳װ‏‏üü‎‎‏üררüü׀üÿÿüûרÿ‎üרü״‏ָ‏ÿ‏ÿשרüüרü‏אררÿ‏ûÿÿüüüרארÿ‏ÿף‎שüש‏üרüüנ‏ÿֱ‎ÿÿüüררüü‏ÿ‏ו‎רüרÿרüררüÿֱÿÿ‎ררüנר׀‏‏ÿÿü‏‏üררננהÿ‎ב‎üüüרüְרנüÿÿרüüüנüנאנüÿüÿÿ‏רר‏א‏ר‏‏ב‎שÿüüרüüרנÿ‎‎‎רüüרתüüר‏רףץנ‏üüרנררüüüֱüשüרüרüרנר‏ÿ‎סÿ‎ר‏üרררנר

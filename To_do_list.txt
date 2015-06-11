@@ -1,0 +1,12 @@
+Test_plan_Archana
+2/3 --> test 5 using board 3  --> completed
+    --> test 18 using board 3 --> completed
+    --> test 1 using board 3  --> completed
+    --> test 22 using board 4 --> completed
+    --> test 2 using board 4  --> completed
+    --> test 2 using board 3  --> NOt completed
+    --> test 7,5,4, 18 using board 4  --> 1st charge battery fully 
+
+3/3 --> test 9  --> need fully charge battery
+    --> test 18 --> need fully charge battery
+    --> 

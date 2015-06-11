@@ -1,0 +1,55 @@
+
+[Thu Feb 26 13:54:49.109 2015] þSOC switch interrupt 
+[Thu Feb 26 13:54:49.248 2015] the status during switch interrupt is 0 
+[Thu Feb 26 13:54:49.502 2015] SOC switch interrupt 
+[Thu Feb 26 13:54:49.642 2015] the status during switch interrupt is 0 
+[Thu Feb 26 13:54:49.896 2015] 
+[Thu Feb 26 13:54:49.909 2015]  Battery Voltage at wakeup : 0xa160 
+[Thu Feb 26 13:54:50.138 2015] SOC switch press event 
+[Thu Feb 26 13:54:55.123 2015] The battery ACR 0x1c01 
+[Thu Feb 26 13:54:55.275 2015] the ACR high threshold is 0Xffff and low threshold if 0X3a3 
+[Thu Feb 26 13:54:55.644 2015]  High threshold voltage value at switch press : 0xb280 
+[Thu Feb 26 13:54:56.020 2015] 
+[Thu Feb 26 13:54:56.020 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 15:02:43.130 2015] SOC switch interrupt 
+[Thu Feb 26 15:02:43.269 2015] the status during switch interrupt is 0 
+[Thu Feb 26 15:02:43.523 2015] SOC switch interrupt 
+[Thu Feb 26 15:02:43.662 2015] the status during switch interrupt is 0 
+[Thu Feb 26 15:02:43.917 2015] 
+[Thu Feb 26 15:02:43.929 2015]  Battery Voltage at wakeup : 0x98b4 
+[Thu Feb 26 15:02:44.159 2015] SOC switch press event 
+[Thu Feb 26 15:02:49.145 2015] The battery ACR 0x9ee 
+[Thu Feb 26 15:02:49.291 2015] the ACR high threshold is 0Xffff and low threshold if 0X3a3 
+[Thu Feb 26 15:02:49.660 2015]  High threshold voltage value at switch press : 0xb280 
+[Thu Feb 26 15:02:50.011 2015] 
+[Thu Feb 26 15:02:50.024 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 15:04:33.382 2015] ÿÿSOC switch interrupt 
+[Thu Feb 26 15:04:33.523 2015] the status during switch interrupt is 0 
+[Thu Feb 26 15:04:33.783 2015] 
+[Thu Feb 26 15:04:33.793 2015]  Battery Voltage at wakeup : 0xa410 
+[Thu Feb 26 15:04:34.026 2015] SOC switch press event 
+[Thu Feb 26 15:04:36.134 2015] The battery ACR 0x3ac 
+[Thu Feb 26 15:04:36.282 2015] the ACR high threshold is 0X4988 and low threshold if 0X3a3 
+[Thu Feb 26 15:04:36.655 2015]  High threshold voltage value at switch press : 0xb280 
+[Thu Feb 26 15:04:37.012 2015] 
+[Thu Feb 26 15:04:37.023 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 16:13:22.576 2015] ÿÿÿSOC switch interrupt 
+[Thu Feb 26 16:13:42.979 2015] the status during switch interrupt is 0 
+[Thu Feb 26 16:13:43.237 2015] 
+[Thu Feb 26 16:13:43.247 2015]  Battery Voltage at wakeup : 0x9fc8 
+[Thu Feb 26 16:13:43.478 2015] SOC switch press event 
+[Thu Feb 26 16:13:48.494 2015] The battery ACR 0xe7a 
+[Thu Feb 26 16:13:48.642 2015] the ACR high threshold is 0Xffff and low threshold if 0X3a3 
+[Thu Feb 26 16:13:49.023 2015]  High threshold voltage value at switch press : 0xb280 
+[Thu Feb 26 16:13:49.367 2015] 
+[Thu Feb 26 16:13:49.378 2015]  Micro controller Going to Sleep 
+[Thu Feb 26 16:15:43.289 2015] SOC switch interrupt 
+[Thu Feb 26 16:15:43.430 2015] the status during switch interrupt is 0 
+[Thu Feb 26 16:15:43.691 2015] 
+[Thu Feb 26 16:15:43.702 2015]  Battery Voltage at wakeup : 0xa608 
+[Thu Feb 26 16:15:43.935 2015] SOC switch press event 
+[Thu Feb 26 16:15:48.999 2015] The battery ACR 0x83b 
+[Thu Feb 26 16:15:49.148 2015] the ACR high threshold is 0Xffff and low threshold if 0X3a3 
+[Thu Feb 26 16:15:49.523 2015]  High threshold voltage value at switch press : 0xb280 
+[Thu Feb 26 16:15:49.880 2015] 
+[Thu Feb 26 16:15:49.891 2015]  Micro controller Going to Sleep 

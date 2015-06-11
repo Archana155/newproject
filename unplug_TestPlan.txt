@@ -1,0 +1,50 @@
+Test Items :
+1. Full Voltage Value: DONE
+	Test : a) Charge the full battery more than 4.15 Value : B1F8 = 4.17V
+		   b) Check the BQ charging Status Pin went OFF at the full charge battery : 4.17V
+
+2. ACR value at Full Voltage 
+	Test : by charging at 4.15v to discharging at 3v.
+		   a) Take Initial ACR value 0x400 and charge the battery at 4.15V. At 4.15v check the battery ACR value. And change the value to 0xFFFF.
+		   b) After that discharge the battery till 3v and measure the battery ACR value.
+		   c) By differentiating the (FFFF - ACR at 3v) get the ACR value.
+		   
+		working on this 3. ACR value at Low Voltage
+			Test : At the time of discharging measure the ACR value at 3v.
+
+4. Generate the Log file at Full charging mode : DONE
+	Test : After getting ACR value change it and put battery into full charge mode.
+
+		5. Generate the log file at Full discharging mode
+			Test : After Full charge the battery put battery into discharge mode.
+
+6. Check the LED Status at the <0.07% Battery
+	Test : a) At the Full battery Discharge time.
+		   b) Put the ACR Initial value in between ACR Threshold limit and discharge the battery.
+
+7. Check the LED Glow status at every Stage : DONE
+	Test : a) Check at the time of charging and discharging mode.
+
+8. Read battery ACR status at every 1% Charge
+	Test : a) Dump the code with disable Switch INTR only Power Good (Charging Port) on and read the ACR and voltage value at every 1% Charging Condition.
+		   b) Dump the code with disable Switch INTR only Charging port on and read the ACR and voltage value at every 1% Discharging Condition.
+		   
+Note : Test 1 : Charging Test : testing done with 1 No. board battery
+					Battery Voltage at Full battery LTC interrupt : b200 : 4.1719V, ACR value : 4DC4
+					Full Voltage : B1F8 : 4.17V
+					Starting ACR value : 0x400
+					ACR value at Full Voltage : FFFF
+					High Threshold value : FFAC : 5.99
+					Full voltage after removing the charging : B1F4 : 4.17V
+				
+		Test 2 : Discharging Test
+					Battery Voltage : AF60 : 4.11V
+					Battery ACR : FFFB
+					High Threshold Value : FFAC
+					Voltage threshold back to normal battery 
+		
+		Test 3 : Charging Test with new ACR : Failed
+					LTC interrupt is not came
+		
+		Test 4 : Discharging Test with new ACR :
+					
